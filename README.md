@@ -1,2 +1,2 @@
 # recipes(odin_project)
- Tacos n' stuff. 
+Unusual Ways to Die. 
